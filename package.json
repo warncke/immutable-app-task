@@ -20,11 +20,11 @@
     "node": ">=7.6.0"
   },
   "license": "MIT",
-  "main": "lib/immutable-core-task.js",
-  "name": "immutable-core-task",
-  "repository": "warncke/immutable-core-task",
+  "main": "lib/immutable-app-task.js",
+  "name": "immutable-app-task",
+  "repository": "warncke/immutable-app-task",
   "scripts": {
     "test": "mocha"
   },
-  "version": "0.0.6"
+  "version": "0.0.1"
 }
